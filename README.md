@@ -1,6 +1,6 @@
 # N11_P
 
-This is the Java Automation Project with using Selenium for n11 website  
+This is the Java Automation Project (Selenium) for N11 website 
 
 ## Instructions
 
