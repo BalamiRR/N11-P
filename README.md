@@ -22,7 +22,6 @@ Or download a ZIP of main [manually](https://github.com/BalamiRR/N11_P/archive/m
 
 * Have a JDK installed
 * Have Maven installed and available on your PATH or IDE
-* Have Firefox installed
 
 ## Verify installation
 
